@@ -1,16 +1,15 @@
 {
   "basics": {
-    "name": "Nafiseh",
-    "label": "Scientist",
+    "name": "Nafiseh Rahmanpour",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
+    "email": "nrahmanp@usc.edu",
     "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "....",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "USC",
+      "postalCode": "CA 90007",
+      "city": "Los Angeles",
       "countryCode": "US",
       "region": "California"
     },
