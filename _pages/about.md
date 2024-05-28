@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Nafiseh, a third year PhD student in computer science at USC. I study geometric generative AI, which employs geometric techniques to generate shapes, pictures or pattern. My background is in mathematical physics, where I have a PhD in theoretical physics. As my thesis, I worked on metric measure space to
+I am Nafiseh, a third year PhD student in computer science at USC. I study geometric generative AI, which employs geometric techniques to generate shapes, pictures or pattern. My background is in mathematical physics, where I worked as PhD student in theoretical physics on metric measure space to
 construct a conformally invariant theory of gravitation. I became interested in the potential for geometry/physics to help in computer science/AI. My research now focuses on diffusion models. 
 
    
