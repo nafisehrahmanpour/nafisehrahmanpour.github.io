@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>University of Southern California</a>. Viterbi School of Engineering, Computer Science Department
 
 profile:
   align: right
@@ -19,4 +19,4 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am Nafiseh, a third year PhD student in computer science at USC. I study geometric generative AI, which employs geometric techniques to generate shapes, pictures or pattern. 
-My background is in mathematical/theoretical physics, where I enjoyed working on new models for gravity. I became interested in the potential for geometry/physics and computer science/AI to help each other. My research focuses on diffusion models.
+My background is in theoretical physics, where I enjoyed working on new mathematical models for gravity. I became interested in the potential for geometry/physics and computer science/AI to help each other. My research focuses on diffusion models.
