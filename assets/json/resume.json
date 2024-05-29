@@ -27,9 +27,7 @@
       "studyType": "Theoretical Physics, Ph.D.",
       "startDate": "2012",
       "endDate": "2017",
-      "Thesis": [
-        "Conformally invariant theory of gravitation in metric measure space"
-      ]
+      "Thesis": ["Conformally invariant theory of gravitation in metric measure space"]
     },
     {
       "institution": "Shahid Beheshti University",
@@ -37,9 +35,7 @@
       "studyType": "Gravitation and Cosmology, M.Sc.",
       "startDate": "2009",
       "endDate": "2011",
-      "Thesis": [
-        "Gravitational waves"
-      ]
+      "Thesis": ["Gravitational waves"]
     },
     {
       "institution": "Shahid Beheshti University",
@@ -114,10 +110,7 @@
     {
       "name": "Quantum Computing",
       "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
       "url": "https://example.com"
