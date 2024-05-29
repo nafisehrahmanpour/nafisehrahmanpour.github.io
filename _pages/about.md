@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Southern California</a>. Viterbi School of Engineering, Computer Science Department
+subtitle: <a href='#'>University of Southern California</a>. Viterbi School of Engineering, Thomas Lord Department of Computer Science. 
 
 profile:
   align: right
