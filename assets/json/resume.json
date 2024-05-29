@@ -4,7 +4,6 @@
     "label": "PhD Student in Computer Science",
     "image": "",
     "email": "nrahmanp@usc.edu",
-    "summary": "....",
     "location": {
       "address": "USC",
       "postalCode": "CA 90007",
@@ -80,7 +79,7 @@
 
   "interests": [
     {
-      "name": "Physics+AI",
+      "name": "AI-Geometry-Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Generative AI",
