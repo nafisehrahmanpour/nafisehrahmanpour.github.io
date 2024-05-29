@@ -9,14 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> nrahmanp at usc dot edu </p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Nafiseh, a third year PhD student in computer science at USC. My research is focused on geometric generative AI, which utilizes geometric techniques to generate shapes, pictures and patterns. 
-I have a background in mathematical and theoretical physics, where I enjoyed developing new models for gravity. I became interested in the interplay of geometry/physics and computer science/AI. Diffusion models is one of my research interests. 
+
+I am Nafiseh, a PhD student in Computer Science at USC, specializing in geometric generative AI. My research utilizes geometric techniques to generate shapes, images, and patterns. I hold a PhD in Physics, where I focused on developing new gravity models. I have always been interested in how different areas of science connect, which led me to explore the relationship between physics and computer science/AI. Among my research interests are diffusion models, which exemplify this interdisciplinary approach.
