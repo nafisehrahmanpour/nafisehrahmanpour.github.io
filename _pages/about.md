@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Southern California</a>. Thomas Lord Department of Computer Science. 
+subtitle: <a href='//www.usc.edu/'>University of Southern California</a>. Thomas Lord Department of Computer Science. 
 
 profile:
   align: right
