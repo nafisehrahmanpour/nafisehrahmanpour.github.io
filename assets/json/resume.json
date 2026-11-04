@@ -10,15 +10,15 @@
       "city": "Los Angeles",
       "countryCode": "US",
       "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    }
   },
+  "work": [
+    {
+      "name": "University of Southern California",
+      "position": "Research Assistant / Teaching Assistant",
+      "location": "Los Angeles, CA"
+    }
+  ],
   "education": [
     {
       "institution": "Shahid Beheshti University",
@@ -45,6 +45,11 @@
     }
   ],
   "publications": [
+    {
+      "name": "Geometric Flow Matching",
+      "publisher": "Submitted to ICLR 2027",
+      "releaseDate": "2026"
+    },
     {
       "name": "A spherically symmetric gravitational solution of nearly conformally flat metric meas",
       "publisher": "Physics of the Dark Universe",
@@ -82,6 +87,7 @@
       "name": "AI-Geometry-Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
+        "Diffusion Models/Flow Matching",
         "Generative AI",
         "Optimal Transport",
         "Quantum gravity"

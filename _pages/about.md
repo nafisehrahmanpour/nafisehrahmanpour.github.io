@@ -23,6 +23,8 @@ I hold a PhD in Physics, where I focused on the generalization of Einstein's gra
 
 Among my current research interests are diffusion models, and their connection to geometry/physics. I am seeking new geometric models that can effectively simulate the diffusion process. A key focus of this project is to explore the connection between established quantities in differential geometry and diffusion models.
 
+My recent work, "Geometric Flow Matching" (submitted to ICLR 2027), builds on this direction, using geometric flows to generate training data for shape generation.
+
 
 
 
