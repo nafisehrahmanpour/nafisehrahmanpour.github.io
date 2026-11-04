@@ -12,14 +12,13 @@
       "region": "California"
     }
   },
-  "work": [
-    {
-      "name": "University of Southern California",
-      "position": "Research Assistant / Teaching Assistant",
-      "location": "Los Angeles, CA"
-    }
-  ],
   "education": [
+    {
+      "institution": "University of Southern California",
+      "location": "Los Angeles, CA",
+      "studyType": "Computer Science, Ph.D.",
+      "startDate": "2022"
+    },
     {
       "institution": "Shahid Beheshti University",
       "location": "Tehran, Iran",
